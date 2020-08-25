@@ -1,0 +1,58 @@
+<style>
+ .navbar-custom{
+    background-color: rgb(49,84,150);
+    color: #FFFFFF;
+    }
+
+  .container{
+              padding: 70px;
+              margin: 70px;
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #dddddd;
+}
+
+td, th {
+  border: 0px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+a
+{
+  color: black;
+}
+ul {
+  list-style-type: none;
+  text-align: right;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(49,84,150);
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+footer {
+  background-color: rgb(172,172,172);
+  padding: 4px 4px 4px 4px;
+  text-align: left;
+  color: white;
+}
+p
+{
+  color:black;
+}
+th a
+{
+	color:white;
+}
+
+
+</style>
